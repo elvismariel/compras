@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+	<item android:id="@+id/addBuy"
+	    android:title="@string/newBuyLabel"
+	    app:showAsAction="always"
+	    android:icon="@drawable/new_list_buy"/>
+
+	<item android:id="@+id/delBuy"
+		android:title="@string/delBuyLabel"
+		app:showAsAction="never"
+		android:icon="@drawable/new_list_buy"/>
+
+	<item android:id="@+id/shareBuy"
+		android:title="@string/shareBuyLabel"
+		app:showAsAction="never"
+		android:icon="@drawable/new_list_buy"/>
+
+	<item android:id="@+id/sync"
+		android:title="@string/syncBuyLabel"
+		app:showAsAction="always"
+		android:icon="@drawable/sync"/>
+</menu>

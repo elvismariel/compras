@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Compras</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="newBuy">Add</string>
+    <string name="delBuyLabel">Excluir</string>
+    <string name="buyNameLabel">Adicionar</string>
+    <string name="newBuyLabel">Adicionar</string>
+    <string name="productNameLabel">Nome do Produto</string>
+    <string name="saveButton">Salvar</string>
+
+    <string name="erro_save_buy">Ocorreu um erro ao salvar a compra</string>
+    <string name="erro_save_product">Ocorreu um erro ao salvar a compra</string>
+
+    <string name="userNameLabel">Nome</string>
+    <string name="userEmailLabel">Email</string>
+    <string name="userPhoneLabel">Número do celular</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="department_validation">Selecione um departamento</string>
+    <string name="url_web_service">http://192.168.1.31:8080/compras-web</string>
+
+    <!-- <string name="url_web_service">http://compras.almeidarc.com.br</string> -->
+    <string name="title_activity_item_list">ItemListActivity</string>
+    <string name="itemListEmpty">A sua lista está vazia!</string>
+
+    <!-- LoginActivity -->
+    <string name="erro_valid_name">Nome inválido!</string>
+    <string name="erro_valid_mail">Endereço de e-mail inválido!</string>
+    <string name="erro_register_login">Ocorreu um erro ao cadastrar o usuário!</string>
+
+    <!-- ItemListActivity -->
+    <string name="showBuyLabel">Listar Compras</string>
+    <string name="syncBuyLabel">Sincronizar</string>
+
+    <!-- BuyListActivity -->
+    <string name="buyListLabel">Lista de Compras</string>
+    <string name="shareBuyLabel">Compartilhar</string>
+
+    <!-- ContactActivity -->
+    <string name="erro_share_buys">O contato não possui o aplicativo!</string>
+    <string name="title_activity_contact">ContactActivity</string>
+</resources>

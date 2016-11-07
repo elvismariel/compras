@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\elvis.souza\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.1.1\c14345441fad67b33200e67ad59bdb26c245f541\jackson-databind-2.4.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c14345441fad67b33200e67ad59bdb26c245f541">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.4.1.1_6f8ed93391688c9f3e133b1fa1eefe2c61d175ed\classes.dex" />
+    </item>
+    <item
+        jar="C:\@Projetos\mariel\compras\compras-app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_0411b664907b6a72f8c167eb79fcf86e13c61821\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\elvis.souza\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_045a1a7a969c50743f959c4be6af59a66cb9d3bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\elvis.souza\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.0\d6a66c7a5f01cf500377bd669507a08cfeba882a\jackson-annotations-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.4.0_a41ebf024431a72e2bc81ce8a417dc46acb666c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\elvis.souza\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.1\b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c\jackson-core-2.4.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.4.1_d6e3ac3cdeb30c03dd0f5af4248a8a43e740f0af\classes.dex" />
+    </item>
+    <item
+        jar="C:\@Projetos\mariel\compras\compras-app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_188fcff722b175db0217f92c49c40e3709f9cd37\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\elvis.souza\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_f8f2e2847a3ba2e3988d6b5c5a8d2bedfccf67f8\classes.dex" />
+    </item>
+    <item
+        jar="C:\@Projetos\mariel\compras\compras-app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_9d7661fa04f1385156a28986bbcc2ce103e1b8c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\@Projetos\mariel\compras\compras-app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="903bdf14da07af8717336a30bcaecfe244631412">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ecabcdd2e73ac33bd076519e54c144428e8c86aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\@Projetos\mariel\compras\compras-app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4eb8b66ecc13e3e41274bbeb173b9a51bdb6fb1">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e31d7d48071fcca0c1d691e68498a7a4951e555e\classes.dex" />
+    </item>
+    <item
+        jar="C:\@Projetos\mariel\compras\compras-app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_2dbe9216888c6eea52001327b89623973ac103fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\elvis.souza\.gradle\caches\modules-2\files-2.1\commons-collections\commons-collections\3.2\f951934aa5ae5a88d7e6dfaa6d32307d834a88be\commons-collections-3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f951934aa5ae5a88d7e6dfaa6d32307d834a88be">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-collections-3.2_7af954316ebb75a96c565930a095a5c42a9e8635\classes.dex" />
+    </item>
+    <item
+        jar="C:\@Projetos\mariel\compras\compras-app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\@Projetos\mariel\compras\compras-app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_b6aa752301cb961e196beaaf705e9b517e718413\classes.dex" />
+    </item>
+
+</items>

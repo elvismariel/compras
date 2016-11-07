@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\@Projetos\\mariel\\compras\\compras-app\\build\\intermediates\\res\\merged\\debug\\menu\\product_menu.xml",
+        "source": "C:\\@Projetos\\mariel\\compras\\compras-app\\res\\menu\\product_menu.xml"
+    },
+    {
+        "merged": "C:\\@Projetos\\mariel\\compras\\compras-app\\build\\intermediates\\res\\merged\\debug\\menu\\item_list.xml",
+        "source": "C:\\@Projetos\\mariel\\compras\\compras-app\\res\\menu\\item_list.xml"
+    },
+    {
+        "merged": "C:\\@Projetos\\mariel\\compras\\compras-app\\build\\intermediates\\res\\merged\\debug\\menu\\share_menu.xml",
+        "source": "C:\\@Projetos\\mariel\\compras\\compras-app\\res\\menu\\share_menu.xml"
+    },
+    {
+        "merged": "C:\\@Projetos\\mariel\\compras\\compras-app\\build\\intermediates\\res\\merged\\debug\\menu\\item_list_menu.xml",
+        "source": "C:\\@Projetos\\mariel\\compras\\compras-app\\res\\menu\\item_list_menu.xml"
+    }
+]

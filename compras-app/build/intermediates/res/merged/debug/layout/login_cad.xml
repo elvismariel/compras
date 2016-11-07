@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical" >
+	
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/userNameLabel"
+		android:textAppearance="?android:attr/textAppearanceSmall" />
+
+	<EditText
+	    android:id="@+id/userNameText"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:ems="10"
+	    android:inputType="textPersonName" >
+
+	    <requestFocus />
+	</EditText>
+	
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/userEmailLabel"
+		android:inputType="textEmailAddress"
+		android:textAppearance="?android:attr/textAppearanceSmall" />
+
+	<EditText
+	    android:id="@+id/userEmailText"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:ems="10"
+	    android:inputType="textEmailAddress" />
+
+	<Button android:id="@+id/save" 
+	    android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content" 
+	    android:layout_gravity="center" 
+	    android:onClick="saveUser"
+	    android:text="@string/saveButton" />
+</LinearLayout>

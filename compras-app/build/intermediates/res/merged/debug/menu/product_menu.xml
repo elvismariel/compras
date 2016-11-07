@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+	<item android:id="@+id/addProduct"
+	    android:title="Item 1"
+	    android:showAsAction="always"
+	    android:icon="@drawable/new_list_product"/>
+</menu>

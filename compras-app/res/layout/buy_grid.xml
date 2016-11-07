@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <GridView
+        android:id="@+id/buyGridView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:numColumns="auto_fit"
+        android:padding="0dp"
+        android:verticalSpacing="1dp"
+        android:horizontalSpacing="1dp"
+        android:layout_margin="1dp"
+        android:background="#E6E6E6"
+        android:stretchMode="columnWidth"
+        android:columnWidth="120dp" />
+
+    <Button
+        android:id="@+id/buttonGridView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@id/buyGridView"
+        android:visibility="invisible"
+        android:onClick="onClickButtonGrid"/>
+
+</RelativeLayout>

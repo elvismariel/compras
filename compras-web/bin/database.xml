@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:jdbc="http://www.springframework.org/schema/jdbc"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/jdbc
+	       http://www.springframework.org/schema/jdbc/spring-jdbc.xsd
+	       http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="com.mysql.jdbc.Driver" />
+		
+		<property name="jdbcUrl" value="jdbc:mysql://localhost/compras?rewriteBatchedStatements=true&amp;zeroDateTimeBehavior=convertToNull" />
+		<property name="user" value="root" />
+		<property name="password" value="root" />
+
+		<!-- <property name="jdbcUrl" value="jdbc:mysql://compras.cqhpvxnrrqzy.us-east-1.rds.amazonaws.com:3306/compras?rewriteBatchedStatements=true&amp;zeroDateTimeBehavior=convertToNull" />
+		<property name="user" value="usr_compras" />
+		<property name="password" value="!compras*" /> -->
+		
+		<property name="preferredTestQuery" value="SELECT 1" />
+		<property name="idleConnectionTestPeriod" value="180" />
+	</bean>
+	
+	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
+	
+	<bean id="flyway" class="com.googlecode.flyway.core.Flyway" init-method="migrate" depends-on="dataSource">
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+</beans>

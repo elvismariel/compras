@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="hdpi"
+    format="7"
+    timestamp="33694230031610"
+    token="2781982287365634344" >
+
+    <task
+        name="javac"
+        duration="633" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="419" />
+    <task
+        name="verifier"
+        duration="152" />
+
+    <artifact
+        location="C:\@Projetos\mariel\compras\compras-app\build\outputs\apk\compras-app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="33694230031610" >
+        <artifact
+            location="C:\@Projetos\mariel\compras\compras-app\build\outputs\apk\compras-app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

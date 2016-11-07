@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departments">
+        <item>Selecione o departamento</item>
+        <item>Açougue / Peixaria</item>
+        <item>Bazar</item>
+        <item>Eletrônico / Eletrodoméstico</item>
+        <item>Frios e Laticínios</item>
+        <item>Hortifrute</item>
+        <item>Higiene Pessoal</item>
+        <item>Jardim</item>
+        <item>Limpeza</item>
+        <item>Padaria</item>
+        <item>Pet</item>
+        <item>Outros</item>
+    </string-array>    
+</resources>
