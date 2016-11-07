@@ -1,0 +1,5 @@
+syntax: glob
+compras-core/bin/**
+compras-web/bin/**
+compras-app/bin/**
+compras-app/build/**

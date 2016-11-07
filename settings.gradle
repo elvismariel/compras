@@ -1,0 +1,2 @@
+
+include "compras-core", "compras-web","compras-app"
